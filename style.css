@@ -1,0 +1,27 @@
+body{
+    background-color: black !important;
+    
+}
+.navimg{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    height: 150px;
+    width: 350px;
+}
+.h2{
+    color: white !important;
+}
+.card-header{
+    background-color: #B69A4E !important;
+    color: #4E1301 !important;
+}
+.card-footer{
+    background-color: #4E1301 !important;
+    
+}
+.btn{
+    color: #B69A4E !important;
+}
+.picture{
+    color: white !important;
+}
